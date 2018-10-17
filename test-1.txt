@@ -1,1 +1,2 @@
 Created a new file to test git checkout after commit
+Modified to test fetch
