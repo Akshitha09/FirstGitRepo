@@ -1,3 +1,4 @@
+rebase2
 Testing rebasing on repo
 This my first Git Repo
 test FETCH
